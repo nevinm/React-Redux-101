@@ -11,7 +11,7 @@ npm i && npm start
 
 ## Meta
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+Nevin Madhukar - Front end developer!
 
 ## License
 
